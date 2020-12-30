@@ -51,9 +51,9 @@ The most common shops in the city:
 - Discount Store, 
 - Coffee Shop, 
 - Grocery Store, 
-- Ice Cream Store, 
-- Mobile Phone Store, 
-- Donut Store
+- Ice Cream Shop, 
+- Mobile Phone Shop, 
+- Donut Shop
 
 Indirectly, it can be argued that these stores are popular with city residents. Therefore, opening one of these stores can be successful. There are two options: expanding the existing network of such stores or creating a new one.
 
