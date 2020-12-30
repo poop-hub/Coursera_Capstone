@@ -63,8 +63,7 @@ To define patterns in the data, we will only consider a dataset with stores. We 
 
 ![ ](png/cluster_map.png  "Most similar clusters")
 
-You can trust these two clusters to be clustered correctly with a high probability. Next, we will look at the distributions for each cluster. And we will determine what type of store can be opened in one of these areas. Теперь мы можем рассмотреть схожие и разные черты трех основных кластеров. Для этого мы будем использовать bar diagrams.
-
+You can trust these two clusters to be clustered correctly with a high probability. Next, we will look at the distributions for each cluster. And we will determine what type of store can be opened in one of these areas. Now we can look at the similarities and differences in the three main clusters. For this we will use bar diagrams.
 Find the prevalence of stores in the 5th cluster
 
 ![ ](png/shop_counts5.png  "Shop counts in cluster 5")
